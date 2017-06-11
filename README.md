@@ -1,4 +1,7 @@
 # Projekt-C-sharp
 Medical Secretary // Patryk Hamerlik, 1 osoba w grupie.
-Projekt ma na celu przpisywać odpowiednim pacjentom odpowiednie leki w danych godzinach, będzie działał w zgodzie z zegarem. Założenie jest takie że, o podanej przez administratora (lekarza) godzinie wyświetli się alarm jakie leki konkretny pacjent ma zażyć.Będzie również  przypominał o nadchodzących wizytach u lekarza (godzinę przed) i umawiał na kolejną wizytę co 3 miesiące. 
+Aplikacja/baza danych która ma ułatwić zarządzanie pacjentami leżacymi w szpitalu.
+Będzie w nim baza lekarzy i przypisanych do nich pacjentów. Projekt będzie przeznaczony dla lekarzy/pielęgniarek,
+ma ułatwić im pracę, będzie można wpisywać pacjentowi przeprowadzone badania, wpisywać na kolejne, 
+będą również alerty zaplanowanych badań, np. pobierania krwi ekg oraz godziny brania leków.
 Projekt będzie robiony WPF'ie
