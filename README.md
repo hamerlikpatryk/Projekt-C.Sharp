@@ -1,2 +1,2 @@
-# Projekt-C-sharp
-Medical Secretary // Patryk Hamerlik
+# Projekt-C-Sharp
+Medical Secretary 
