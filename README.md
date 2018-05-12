@@ -4,4 +4,4 @@ Program jest bazą danych dla lekarzy, zawiera w sobie zarówno lekarzy, jak i p
  nowego lekarza/pacjenta/badanie na konkretną godzinę na konkretnej osobie przez konkretną osobę. Każde badanie ma swoją cenę. Główny program odwołuje się do "podprogramów", 
 wypisuje nam  zawarte w nich dane, takie jak imiona lakarzy/pacjentów, nazwy badań ich ceny.
 
-
+//////////////////Project Undone
